@@ -1,9 +1,9 @@
 
 # Who am I
 
-* I was born in Ukraine but moved to Russia when I was 24. 
-* I have a Master's degree in Computer Systems Analysis. 
-* I have almost no experience analyzing data
+* I was born in Ukraine but moved to Russia when I was 24.
+* I have a Master degree in Computer science.
+* I have some experience analyzing data from my own experiments but no formal training whatsoever.
 
 # Why am I here
 
