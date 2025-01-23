@@ -1,8 +1,8 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
-* I have a PhD in Neuroscience but have no intention of staying in academia.
+* I was born in Ukraine but moved to Russia when I was 24.
+* I have a Master degree in Computer science.
 * I have some experience analyzing data from my own experiments but no formal training whatsoever.
 
 # Why am I here
@@ -12,6 +12,6 @@
 
 # What will I do after the course?
 
-* Would love to get into the sports industry.
+* Would love to get into the helthcare industry.
 * I will look for patterns in data where people are not even looking.
 * To enjoy myself.
