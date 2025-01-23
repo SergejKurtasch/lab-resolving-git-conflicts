@@ -14,4 +14,4 @@
 
 * Would love to get into the healthcare industry.
 * I will look for patterns in data where people are not even looking.
-* To enjoy myself.
+* To enjoy the process
